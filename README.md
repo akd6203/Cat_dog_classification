@@ -3,6 +3,9 @@
 ## Description:
 This repository contains Python code for fine-tuning the VGG16 convolutional neural network architecture to classify images of cats and dogs. The code is implemented using the Keras deep learning framework.
 
+## Dataset
+https://www.kaggle.com/datasets/arnaudeq/cats-vs-dogs-1000
+
 ## Explanation:
 The code follows these main steps:
 1. **Loading Pre-trained VGG16 Model**: The pre-trained VGG16 model is loaded from Keras with ImageNet weights.
